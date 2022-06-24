@@ -12,4 +12,4 @@ Database:
 
 no database used, the data is stored in the localstorage of the browser.
 
-This website is made using reactjs and is hosted with firebase.
+### This website is made using reactjs and is hosted with firebase.
